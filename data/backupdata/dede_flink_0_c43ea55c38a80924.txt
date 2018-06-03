@@ -1,0 +1,1 @@
+INSERT INTO `dede_flink` VALUES('16','1','http://www.yuyaninggujikang.com','御衙宁骨济康','','','','1513136424','1','2');
